@@ -7,3 +7,4 @@ p2 = float(input("Digite o peso da segunda nota: "))
 media = (nota1*p1 + nota2*p2) / (p1+p2)
 
 print(f"A média ponderada das notas é: {media:.2f}")
+
