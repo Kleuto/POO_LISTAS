@@ -25,21 +25,21 @@ Durante a resolução das atividades, foram explorados os seguintes temas e conc
 - **Programação Orientada a Objetos (POO):** Modelagem de sistemas empregando Classes, Objetos, Atributos e Métodos.
 - **Operações de CRUD:** Implementação das quatro operações fundamentais de gerenciamento: *Create*, *Read*, *Update* e *Delete*.
 
-## 📂 Organização das Questões
-Os exercícios estão organizados em pastas por lista, seguindo o padrão de nomenclatura solicitado pelo professor:
+## 📂 Organização do Repositório
+Os exercícios estão organizados em diretórios específicos, separando as listas e os arquivos gravados para a apresentação:
 
 ```text
 POO_LISTAS/
 ├── README.md
-├── Lista_01/
-│   ├── Lista01_questao_01.py
-│   ├── Lista01_questao_02.py
+├── LISTA 1/
+│   ├── Lista 1 - Questão 01.py
 │   └── ...
-├── Lista_02/
-│   ├── Lista02_questao_01.py
-│   ├── Lista02_questao_02.py
+├── LISTA 2/
+│   ├── Lista 2 - Questão 01.py
 │   └── ...
-└── Lista_03/
-    ├── Lista03_questao_01.py
-    ├── Lista03_questao_02.py
-    └── ...
+├── LISTA 3/
+│   └── ...
+└── Questões video/
+    ├── Questão 21 - Lista 2.py
+    ├── Questão 27 - Lista 2.py
+    └── Questão 36 - Lista 3.py
