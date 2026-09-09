@@ -51,4 +51,26 @@ POO_LISTAS/
     └── Questão 36 - Lista 3.py
 ```
 
-👉 [**Questões do Vídeo**](https://drive.google.com/drive/folders/1WTCbkDx3sKvZeBvKTVVWa9U_s75BJZn2?usp=sharing)
+## 🎥 Atividade Prática em Vídeo
+
+Como parte da atividade prática da disciplina de Programação Orientada a Objetos (POO), foram selecionadas três questões das listas de exercícios para serem apresentadas e resolvidas em vídeo.
+
+A entrega dos vídeos está disponível na seguinte pasta do Google Drive:
+
+**[📁 Acessar pasta com os 3 vídeos](https://drive.google.com/drive/folders/1WTCbkDx3sKvZeBvKTVVWa9U_s75BJZn2?usp=drive_link)**
+
+### Questões Apresentadas
+
+* *Lista 2 — Questão 21:* [▶️ Assistir ao vídeo](https://drive.google.com/file/d/1P15t4OXMX4X6lEbZr18mjexvSQ_RQc7M/view?usp=drive_link)
+
+* *Lista 2 — Questão 27:* [▶️ Assistir ao vídeo](https://drive.google.com/file/d/1GmJDdHN1xEg6bUY_aZ8Tky8LsRKEP8ti/view?usp=drive_link)
+
+* *Lista 3 — Questão 36:* [▶️ Assistir ao vídeo]()
+
+Os códigos-fonte das três questões apresentadas permanecem disponíveis neste repositório, organizados de acordo com suas respectivas listas.
+
+## 👨‍💻 Autor
+
+*Kleiton Diogo Dos Santos Maia*
+
+Estudante de Licenciatura em Ciência da Computação (LCC).
